@@ -1,1 +1,1 @@
-# Simple python ddos
+# Simple python dos
